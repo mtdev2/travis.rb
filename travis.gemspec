@@ -407,7 +407,7 @@ Gem::Specification.new do |s|
   s.add_dependency "typhoeus",              "~> 1.3", ">= 0.6.8"
   s.add_dependency "json",                  "~> 2.3"
   s.add_dependency "pusher-client",         "~> 0.4"
-  s.add_development_dependency "rspec",     "~> 2.12"
+  s.add_development_dependency "rspec",     "~> 3.9"
   s.add_development_dependency "rspec-its"
   s.add_development_dependency "sinatra",   "~> 2.0"
   s.add_development_dependency "rack-test", "~> 0.6"
