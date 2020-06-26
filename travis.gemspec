@@ -402,7 +402,7 @@ Gem::Specification.new do |s|
   s.add_dependency "faraday",               "~> 1.0"
   s.add_dependency "faraday_middleware",    "~> 1.0"
   s.add_dependency "highline",              "~> 2.0"
-  s.add_dependency "gh",                    "~> 0.13"
+  s.add_dependency "gh",                    "0.18.0"
   s.add_dependency "launchy",               "~> 2.1"
   s.add_dependency "typhoeus",              "1.4.0"
   s.add_dependency "json",                  "~> 2.3"
