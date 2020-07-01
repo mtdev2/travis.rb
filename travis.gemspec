@@ -405,7 +405,7 @@ Gem::Specification.new do |s|
   s.add_dependency "gh",                    "~> 0.13"
   s.add_dependency "launchy",               "~> 2.1"
   s.add_dependency "typhoeus",              "1.4.0"
-  s.add_dependency "json",                  "~> 2.3"
+  s.add_dependency "json",                  "2.3.1"
   s.add_dependency "pusher-client",         "~> 0.4"
   s.add_development_dependency "rspec",     "~> 3.9"
   s.add_development_dependency "rspec-its"
