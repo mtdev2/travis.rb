@@ -399,7 +399,7 @@ Gem::Specification.new do |s|
   ]
 
   # dependencies
-  s.add_dependency "faraday",               "~> 1.0"
+  s.add_dependency "faraday",               "1.4.3"
   s.add_dependency "faraday_middleware",    "~> 1.0"
   s.add_dependency "highline",              "~> 2.0"
   s.add_dependency "gh",                    "~> 0.13"
