@@ -411,10 +411,10 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rspec-its"
 
   s.add_development_dependency "sinatra",   "~> 1.3"
-  s.add_development_dependency "rack-test", "~> 1.1"
+  s.add_development_dependency "rack-test", "~> 2.0"
 
   s.add_development_dependency "sinatra",   "~> 2.0"
-  s.add_development_dependency "rack-test", "~> 0.6"
+  s.add_development_dependency "rack-test", "~> 2.0"
 depfu/update/rack-test-1.1.0
 
   # Prereleasing on Travis CI
